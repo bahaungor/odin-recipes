@@ -1,5 +1,8 @@
 # odin-recipes
 Example website for The Odin Project
+
+Link to the website → [**Odin Recipes**](https://bahaungor.github.io/odin-recipes/)
+
 ![Image of the project](./images/project-image.PNG)
 
 # Languages and Tools
