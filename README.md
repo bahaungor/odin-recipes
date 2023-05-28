@@ -1,6 +1,6 @@
 # odin-recipes
 Example website for The Odin Project
-![Image of the project](./images/project-image.png)
+![Image of the project](./images/project-image.PNG)
 
 # Languages and Tools
 <p align="left">
